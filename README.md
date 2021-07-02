@@ -1,8 +1,8 @@
 Pignuuu's ComputerCraft Casino.
 
 Todo's
-[X] Make Money Database
-[X] Make card generator
-[x] Make Money viewer
-[x] Make Moeny deposit
-[x] Make games
+✓ Make Money Database
+✓ Make card generator
+✓ Make Money viewer
+✓ Make Moeny deposit
+✓ Make games
